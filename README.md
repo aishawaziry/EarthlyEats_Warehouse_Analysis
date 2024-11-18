@@ -48,7 +48,7 @@
 
 
 ### Dashboard Analysis
-#### This dashboard presents a comprehensive visual analysis of the IMDb dataset, allowing for interactive exploration of key insights.
+#### This dashboard presents a comprehensive visual analysis, allowing for interactive exploration of key insights.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d4e6a621-c935-4179-84cd-369192934c20">
